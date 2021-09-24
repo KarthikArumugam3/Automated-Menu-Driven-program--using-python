@@ -1,6 +1,4 @@
-# KarthikArumugam3-Menu-Driven-program--using-python
-
-In this project me and my team have integrated :-
+# In this project me and my team have integrated an Automated menu driven program which has the following :-
 1. AWS (launching instances and attaching EBS volume).
 2. For hadoop :-- (client node, data node, name node).
 3. Web server configuration, web server configuration by the help of ansible.
