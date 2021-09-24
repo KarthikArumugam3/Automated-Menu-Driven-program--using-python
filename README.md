@@ -6,6 +6,6 @@
 5. Partition of LVM.
 
 The setup was programmed on Redhat 8 OS.
-
 Following the Video implementation of the project
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ESuIBcQiF80/0.jpg)](https://www.youtube.com/watch?v=ESuIBcQiF80)
